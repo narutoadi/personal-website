@@ -1,0 +1,13 @@
+.right-border{
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: rgba(86, 61, 124, 0.2);
+}
+.left-border{
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: rgba(86, 61, 124, 0.2);
+}
+.text-center {
+   text-align:center
+}
